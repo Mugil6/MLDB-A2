@@ -22,8 +22,8 @@ To run this notebook locally, you need Python 3.x and the standard built-in libr
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Mugil6/MLDB-A2](https://github.com/Mugil6/MLDB-A2)
-cd CSL7110-MinHashing-LSH
+git clone https://github.com/Mugil6/MLDB-A2
+cd MLDB-A2
 
 # Launch Jupyter Notebook
 jupyter notebook main.ipynb
